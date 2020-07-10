@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there ✌
 
-<!--
-**danielbonifacio/danielbonifacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel Bonifacio, a brazillian developer that loves innovation and education. I have discovered my passion with the development world with 9yo, so I'm coding since 😜
 
-Here are some ideas to get you started:
+- Instructor at [@algaworks](https://github.com/algaworks) 📚
+- Software Engineer Consultant at [@cyberlabsai](cyberlabsai) 👨‍💻
+- Unranked at League of Legends 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a lot of experience in the whole JavaScript development and I try to share a part of it on the internet 😃
+
+You can find me on my:
+
+- [YouTube channel](https://youtube.com/particaonerd)
+- [Personal blog](https://blog.bonifacio.dev)
+- [Twitter](https://twitter.com/dnbnfc)
