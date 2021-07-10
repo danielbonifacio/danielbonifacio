@@ -3,7 +3,7 @@
 I'm Daniel Bonifacio, a brazillian developer that loves innovation and education. I have discovered my passion with the development world with 9yo, so I'm coding since 😜
 
 - Instructor at [@algaworks](https://github.com/algaworks) 📚
-- Software Engineer Consultant at [@cyberlabsai](cyberlabsai) 👨‍💻
+- Software Engineer Consultant at [@cyberlabsai](https://github.com/cyberlabsai) 👨‍💻
 - Unranked at League of Legends 🎮
 
 I have a lot of experience in the whole JavaScript development and I try to share a part of it on the internet 😃
