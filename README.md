@@ -4,5 +4,5 @@ I'm a Brazillian developer that loves technology and education. I have discovere
 
 I have a pretty big knowledge of JavaScript and web environments, so I try to share it on the web via courses, videos, and articles.
 
-- Tech lead [@joyspringvitamins](https://joyspringvitamins.com) 👨‍💻
+- Tech lead [@coldsmokecreative](https://coldsmoke.co/pages/about) 👨‍💻
 
